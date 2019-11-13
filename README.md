@@ -1,6 +1,6 @@
 # Horse Or Human Classifer using CNN
 
-[Horse Or Human Classifer using CNN in Google Colab](https://colab.research.google.com/drive/1eCodXMwb6YUIblkW0hmzKOiJM2WMWGLX#scrollTo=Lps881qI3EhL)
+[Horse Or Human Classifer using CNN in Google Colab](https://colab.research.google.com/github/swetabehera04/Horse_Human_Classifer_using_CNN/blob/master/Horse_Human_Classifier_using_CNN.ipynb)
 
 ## How to run the code in Colab
 
