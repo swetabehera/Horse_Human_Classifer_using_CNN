@@ -1,6 +1,6 @@
-# Horse Or Human Classifer using CNN
+# Human Or Horse Classifer using CNN
 
-[Horse Or Human Classifer using CNN in Google Colab](https://colab.research.google.com/github/swetabehera04/Horse_Human_Classifer_using_CNN/blob/master/Horse_Human_Classifier_using_CNN.ipynb)
+[Human Or Horse Classifer using CNN in Google Colab](https://colab.research.google.com/github/swetabehera04/Horse_Human_Classifer_using_CNN/blob/master/Horse_Human_Classifier_using_CNN.ipynb)
 
 ![horsehuman](/horse.jpg)
 
